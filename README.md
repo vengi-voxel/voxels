@@ -12,8 +12,7 @@ Voxelized with [vengi-voxconvert](https://github.com/mgerhardy/vengi) 0.0.21-dev
 
 There are still a few texture lookup errors somewhere hidden - but all in all the result is quite nice.
 
-![image](sponza1.png)
-![image](sponza2.png)
+![image](sponza-scale-0.3.png)
 
 # Links
 
