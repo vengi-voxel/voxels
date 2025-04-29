@@ -32,6 +32,7 @@ Find other download links (often with unknown or unsure licenses) for tests here
 * [www.moddb.com/mods/nashgore-next/downloads/nashgore-next-official-voxel-pack](https://www.moddb.com/mods/nashgore-next/downloads/nashgore-next-official-voxel-pack) (Unknown)
 * [rdw.xp3.biz/](http://rdw.xp3.biz/) (Unknown)
 * [www.planetminecraft.com/projects/environment-landscaping/](https://www.planetminecraft.com/projects/environment-landscaping/) (Unknown)
+* [aos.party](https://aos.party/) (Unknown)
 
 # Heightmaps
 
